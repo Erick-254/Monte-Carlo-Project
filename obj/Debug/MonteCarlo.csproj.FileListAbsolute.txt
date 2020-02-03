@@ -1,0 +1,10 @@
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\bin\Debug\nunit.framework.dll
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\bin\Debug\nunit.framework.pdb
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\bin\Debug\nunit.framework.xml
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\obj\Debug\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\obj\Debug\MonteCarlo.csproj.CopyComplete
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\HOME\Source\Repos\MonteCarlo-Method\MonteCarlo\obj\Debug\MonteCarlo.pdb

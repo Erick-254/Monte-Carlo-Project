@@ -1,0 +1,12 @@
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.AssemblyInfo.cs
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.exe
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.dll.config
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.deps.json
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.runtimeconfig.json
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.dll
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.pdb
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.dll
+C:\Users\HOME\source\repos\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.pdb
